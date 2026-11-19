@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="846" height="146">
-<style>
-text { font-family: monospace; font-size: 14px; white-space: pre; }
-</style>
-<rect width="846" height="146" fill="#1a2228" rx="6"/>
-<text x="270" fill="#9affdd">
-<tspan y="20"> __________________________________ </tspan>
-<tspan y="40">&lt; Not a big fan of fancy profiles. &gt;</tspan>
-<tspan y="60"> ---------------------------------- </tspan>
-<tspan y="80">           \                        </tspan>
-<tspan y="100">            \                       </tspan>
-<tspan y="120">               (@.@)                </tspan>
-</text>
+  <rect width="846" height="146" rx="6" fill="#1a2228"/>
+  <g fill="#9affdd" font-family="monospace" font-size="14">
+    <text x="278.4" y="20">__________________________________</text>
+    <text x="270.0" y="40">&lt; Not a big fan of fancy profiles. &gt;</text>
+    <text x="278.4" y="60">----------------------------------</text>
+    <text x="362.7" y="80">\</text>
+    <text x="371.2" y="100">\</text>
+    <text x="396.4" y="120">(@.@)</text>
+  </g>
 </svg>
